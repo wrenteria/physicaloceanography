@@ -5,4 +5,7 @@
 Este es un repositorio de "scripts" para la materia de **Oceanografía Física** que es parte del Curso Básico de Hidrografía. A parte de ayudar el entendimiento de la materia, sirve de motivación para el empleo del lenguaje de programación [Python](https://www.python.org/).
 
 ## Motivación
-El océano es un elemento importante en el sistema climático, primordial para la vida, y es el todo para un oceanógrafo. 
+El océano es un elemento importante en el sistema climático, primordial para la vida, y es el todo para un oceanógrafo. Su entendimiento desde el punto de vista físico, permite comprender los eventos que regulan tanto las condiciones climáticas del planeta, como los proceso biológicos que ocurren en él, sobre todo el océano. 
+Sobre los avances en este entedimiento de los proceso físicos, existe muchísima información en la actualidad. Podemos conocer como era el clima décadas atrás y anticiparnos a como será el clima en el futuro. Sin embargo, esta información si bien disponible, requiere para su acceso y procesamiento, aplicaciones computacionales (i.e. [Panoply](https://www.giss.nasa.gov/tools/panoply/)) o desarrollar nuestros propios scripts para acceder a esta información. Ese es el propósito de este repositorio. 
+## No es un curso de Python
+No, defintivamente no lo es. Puedo recomendar sin embargo, un video-tutorial que a mi me sirvió: [Python Programming Tutorial](https://youtu.be/HBxCHonP6Ro)
