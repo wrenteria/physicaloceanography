@@ -12,7 +12,7 @@ No, defintivamente no lo es. Puedo recomendar sin embargo, un video-tutorial que
 Para quiene quieren ir un poco más alla, les recomiendo este libro:
 *A Primer on Scientific Programming with Python (Texts in Computational Science and Engineering)*,de Hans Petter Langtangen
 ## Cómo ejecutar los notebooks
-Los tutoriales pueden ejecutaese usando Jupyter. Desde la carpeta raíz, ejecutar:
+Los tutoriales pueden ejecutarse usando Jupyter. Desde la carpeta raíz, ejecutar:
 ```python
 jupyter notebook
 ```
