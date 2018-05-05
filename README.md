@@ -16,3 +16,6 @@ Los tutoriales pueden ejecutarse usando Jupyter. Desde la carpeta raíz, ejecuta
 ```python
 jupyter notebook
 ```
+## CONTENIDO
+### [1) Ecuación de Estado](https://nbviewer.jupyter.org/github/wrenteria/physicaloceanography/blob/master/notebooks/Actividad_1.ipynb)
+En esta actividad se 
