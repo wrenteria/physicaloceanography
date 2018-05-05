@@ -17,5 +17,5 @@ Los tutoriales pueden ejecutarse usando Jupyter. Desde la carpeta raíz, ejecuta
 jupyter notebook
 ```
 ## CONTENIDO
-### [1) Ecuación de Estado](https://nbviewer.jupyter.org/github/wrenteria/physicaloceanography/blob/master/notebooks/Actividad_1.ipynb)
-En esta actividad se 
+### [1) Diagrama de densidad](https://nbviewer.jupyter.org/github/wrenteria/physicaloceanography/blob/master/notebooks/Actividad_1.ipynb)
+En esta actividad se explora la relación entre la Temperatura, la Salinidad y la Presión, y su influencia sobre la densidad del agua de mar. 
