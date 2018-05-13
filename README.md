@@ -16,7 +16,10 @@ Los tutoriales pueden ejecutarse usando Jupyter. Desde la carpeta raíz, ejecuta
 ```python
 jupyter notebook
 ```
-## CONTENIDO
+# CONTENIDO
+[Introducción al curso](https://nbviewer.jupyter.org/github/wrenteria/physicaloceanography/blob/master/notebooks/Actividad_1.ipynb)
+## UNIDAD 1 TEMPERATURA, SALINIDAD Y DENSIDAD DEL AGUA DE MAR
+## Actividades
 ### [1) Configuración Física](https://nbviewer.jupyter.org/github/wrenteria/physicaloceanography/blob/master/notebooks/Actividad_1.ipynb)
 En esta actividad se describe las características físicas del océano.
 ### [2) Diagrama de densidad](https://nbviewer.jupyter.org/github/wrenteria/physicaloceanography/blob/master/notebooks/Actividad_2.ipynb)
