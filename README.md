@@ -17,7 +17,7 @@ Los tutoriales pueden ejecutarse usando Jupyter. Desde la carpeta raíz, ejecuta
 jupyter notebook
 ```
 # CONTENIDO
-[Introducción al curso](https://github.com/wrenteria/physicaloceanography/blob/master/clases/ocefis-introduccion.pdf)
+
 ## UNIDAD 1 TEMPERATURA, SALINIDAD Y DENSIDAD DEL AGUA DE MAR
 ## Actividades
 ### [1) Configuración Física](https://nbviewer.jupyter.org/github/wrenteria/physicaloceanography/blob/master/notebooks/Actividad_1.ipynb)
