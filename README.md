@@ -24,3 +24,5 @@ jupyter notebook
 En esta actividad se describe las características físicas del océano.
 ### [2) Diagrama de densidad](https://nbviewer.jupyter.org/github/wrenteria/physicaloceanography/blob/master/notebooks/Actividad_2.ipynb)
 En esta actividad se explora la relación entre la Temperatura, la Salinidad y la Presión, y su influencia sobre la densidad del agua de mar. 
+### [3) Características del océano](https://nbviewer.jupyter.org/github/wrenteria/physicaloceanography/blob/master/notebooks/Actividad_3.ipynb)
+Conocer las características del océano, explorar y determinar valores climatológicos. Explorar los valores de clorofila del océano.
